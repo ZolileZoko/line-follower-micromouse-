@@ -1,0 +1,9 @@
+bill of componenents 
+Component Name/Part Number of Components Price ($)
+BJT Transistor (MMBT5551) 6 0,0135*6 = 0,081
+Infrared LED (TSA6200) 3 (0,936*3) + 3 = 3,28
+Photo diode (TEFD4300F) 3 (0,22*3) + 3 = 3,66
+22 ohm resistor 3 0,0005*3 = 0,0015
+10k ohm resistor 3 0,0009*3 = 0,0027
+100 ohm resistor 6 0,0005*6 = 0,003
+Total 7,028
