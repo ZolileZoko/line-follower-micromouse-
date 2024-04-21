@@ -3,5 +3,6 @@ The EEE3088F maize-solving robot requires the integration of a power and sensing
 
 This repository provides the documentation of the design cycle followed by Zolile Zoko( Power module pcb designer) and Manare Rammutla(Sensing module pcb designer).
 
-![HighLevelBlockDiagram](https://github.com/ZolileZoko/EEE3088F-Engineering-Design-Principles-2024/assets/122829209/ffe48cee-d4a6-403e-a17c-fca71aba5120)
 
+
+![HighLevelBlockDiagram](https://github.com/ZolileZoko/EEE3088F-Engineering-Design-Principles-2024/assets/122829209/9214a45a-f3eb-4223-98f9-202509f4021d)
