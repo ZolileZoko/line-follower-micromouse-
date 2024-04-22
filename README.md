@@ -5,4 +5,4 @@ This repository provides the documentation of the design cycle that was followed
 
 
 
-![HighLevelBlockDiagram](https://github.com/ZolileZoko/EEE3088F-Engineering-Design-Principles-2024/assets/122829209/9214a45a-f3eb-4223-98f9-202509f4021d)
+
