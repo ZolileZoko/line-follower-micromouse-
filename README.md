@@ -26,10 +26,9 @@ This project involves designing **power** and **sensing** modules for a **maze-s
 ## 📂 Repository Structure
 ```
 📦 EEE3088F-Engineering-Design-Principles-2024
-├── 📁 docs/                  # Reports & documentation
-├── 📁 firmware/              # Embedded software for STM32
-├── 📁 pcb_design/            # PCB design files (Gerber, BOM, CPL)
-├── 📁 testing/               # Test results & logs
+├── 📁 matlab files/                  
+├── 📁 Power Subsystem/              #
+├── 📁 sensing Subsystem/            
 └── README.md                # This document
 ```
 
