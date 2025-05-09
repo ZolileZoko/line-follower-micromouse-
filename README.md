@@ -45,4 +45,3 @@ This project involves designing **power** and **sensing** modules for a **maze-s
 - **Zolile Zoko** - Power Module
 - **Manare Rammutla** - Sensing Module
 
-For issues, open a **GitHub Issue**.
