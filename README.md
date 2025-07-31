@@ -32,8 +32,6 @@ This project involves designing **power** and **sensing** modules for a **maze-s
 └── README.md                # This document
 ```
 
- |
-
 ## Tools & Technologies
 - **KiCad** - PCB Design
 - **STM32CubeIDE** - Firmware Development
